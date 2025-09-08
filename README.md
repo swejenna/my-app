@@ -1,4 +1,13 @@
-# MyApp
+# App Description and Start Up
+
+## Description
+This application mirrors a business website but with a twist: I am the business.
+- Home page: My resume
+- Contact page: an Mac (Ios) inspired contact form.
+- Serviecs page: INCOMPLETE, shows a service card with basic business consulting services.
+
+
+# Startup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
