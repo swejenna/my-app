@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-contact-home',
@@ -8,5 +8,15 @@ import { Component } from '@angular/core';
   styleUrl: './contact-home.component.css'
 })
 export class ContactHomeComponent {
+  isUnchanged: boolean = false;
+
+  onCancel(event?: KeyboardEvent) {
+    const eventMessage = event ? ` Event target is: ` + (event.target as HTMLElement).textContent : '';
+    alert(`Cancelled. ` + eventMessage);
+  }
+
+  constructor() {}
+
+  ngOnInit(): void{}
 
 }
