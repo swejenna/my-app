@@ -3,8 +3,14 @@
 ## Description
 This application mirrors a business website but with a twist: I am the business.
 - Home page: My resume
+- <img width="1255" height="672" alt="Screenshot 2025-09-09 at 12 54 30 PM" src="https://github.com/user-attachments/assets/d2027065-b9fb-4e70-b870-2ac50b91e058" />
 - Contact page: an Mac (Ios) inspired contact form.
-- Serviecs page: INCOMPLETE, shows a service card with basic business consulting services.
+- <img width="1253" height="849" alt="Screenshot 2025-09-09 at 12 55 22 PM" src="https://github.com/user-attachments/assets/e3319cc9-5d6b-44e9-ac7b-7edb00ba1daf" />
+- Skills page: INCOMPLETE, shows a skill card with info on my front-end development skills. TO ADD: backend development skills card, mobile development skills card and data skills card.
+- <img width="665" height="662" alt="Screenshot 2025-09-09 at 12 55 03 PM" src="https://github.com/user-attachments/assets/01d5366a-4ace-4523-b2a2-e723a8bf049f" />
+-Projects page: INCOMPLETE, choosing projects to show off is hard.
+
+
 
 
 # Startup
