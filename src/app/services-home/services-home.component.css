@@ -1,16 +1,13 @@
-
 .myServices {
     padding: 20px;
-    border: 2px solid #464545;
-    width: 30%;
+    border: 2px solid #000;
+    width: 60%;
+    margin: 5vw 19vw;
     font-size: 20px;
-    background: linear-gradient(#707070, #464545);
+    background: #0e2352;
     border-radius: 25px;
     color: white;
-    box-shadow: 9px 8px 10px #000000;
-    margin-top: 40px;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
+    box-shadow: 9px 8px #aaa;
 }
 
 .businessCardTitle {
@@ -18,17 +15,14 @@
 }
 
 ul {
-    list-style-type: disc;
+    list-style: none;
+} 
+
+ul li:before {
+    content: '☞';
+    margin:0 .25vw;
 }
 
-ul li {
-    margin-bottom: 10px;
-}
-
-.container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    gap: 20px;
-    flex-wrap: wrap;
+li {
+    margin-bottom: 8px;
 }
